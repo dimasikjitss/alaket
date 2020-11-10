@@ -1,4 +1,4 @@
-# alaket
+# Alaket
 * First clone from reposotory to your local folder using command
     - `git clone git@github.com:dimasikjitss/alaket.git .`
 
